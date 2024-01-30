@@ -96,6 +96,16 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
+## Tommy's Modifications
+
+* This is my modifications on the README file for the assignment.
+* It seems that an asterisk corresponds to a new bullet point.
+* It also seems that hashtags correspond to new paragraphs, but the meaning behind the number of hashtags remains unbeknownst to me.
+* It seems as though two hastags "##" signify a whole new subject.
+* Three hashtags "###" mean a sub-paragraph for the main one.
+* Four hashtags "####" mean a sub-paragraph for the previous sub-paragraph? Or maybe just an even smaller one.
+* A "####" can go under a "##"
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
